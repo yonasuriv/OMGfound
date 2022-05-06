@@ -1,5 +1,4 @@
-# OMG Found
-### Omegle Data Retriever
+# Omegle Data Retriever
 
 ### Setup
 1. Download `omgfound.js` file located in this repository
