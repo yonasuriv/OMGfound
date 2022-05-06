@@ -1,4 +1,7 @@
 # Omegle Data Retriever
+>The purpose of this script is for educational purposes only to show you that Omegle is not secure at all.
+>Do not use Omegle, and if you do, please use a VPN.
+
 
 ### Setup
 1. Download `omgfound.js` file located in this repository
