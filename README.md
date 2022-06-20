@@ -1,5 +1,5 @@
 # Omegle Data Retriever
->The purpose of this script is for educational purposes only to show you that Omegle is not secure at all.
+>The purpose of this script is for educational purposes only to show you that Omegle is not secure at all.<br>
 >Do not use Omegle, and if you do, please use a VPN.
 
 
